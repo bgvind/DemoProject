@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5f2ac256ff298bac2b6f9214"},"testCaseKey":"data1","url":"https://tst.mainstreamsasp.com/WEB00344CFG/Logon.aspx","username":"AutomatedTester","password":"Automation!2020","fromDate":"8/12/2020","toDate":"8/1/2020","alertmsg":"- From Date should be less than To Date."}
